@@ -39,7 +39,7 @@ SpringBoot+ Mybatis + Mysql + MongoDB + Redis + Jsoup
 
 #####2017-11-29 更新
 
-spider4j 项目      https://github.com/CharleyXu/spider4j
+spider4j 项目      https://github.com/Gaopenglizhi/spider4j
 
 springboot + webmagic + mybatis 实现 ，未配置代理，爬取了4个多小时的数据，没有被封IP
 
@@ -48,11 +48,6 @@ springboot + webmagic + mybatis 实现 ，未配置代理，爬取了4个多小�
     
 2.成功获取评论数据，用户歌单，歌单详情，已实现查询接口,查询成功后存入mongodb
 
-####2017-12-07 更新
-
-补充图例,有想到有意思的功能再更新
-
-![Image text](https://raw.githubusercontent.com/CharleyXu/tulingchat/master/src/main/resources/static/legend.png)
 
 ####2017-12-27 更新
 
@@ -61,5 +56,3 @@ springboot + webmagic + mybatis 实现 ，未配置代理，爬取了4个多小�
 后续:
 
 项目使用SDK开发工具包 https://github.com/Wechat-Group/weixin-java-tools
-
-借鉴这个微信点餐系统接触下微信支付https://github.com/ldlood/SpringBoot_Wechat_Sell
